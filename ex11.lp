@@ -7,3 +7,6 @@ min: +50 C1 +83 C2 +130 C3 +61 C4 +97 C5 +145 C6;
 +C3 +C6 = 900;
 +2 C1 +1.5 C2 +3 C3 <= 10000;
 +C1 +2 C2 +C3 <= 5000;
+
+/* Integer definitions */
+int C1,C2,C3,C4,C5,C6;
